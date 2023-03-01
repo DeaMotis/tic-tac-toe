@@ -68,7 +68,3 @@ while True:
     if num == 9:
         print("Ничья")
         break
-
-
-
-
